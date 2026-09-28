@@ -1,132 +1,73 @@
 <div align="center">
 
-# **Q-TECH SOLUTIONS**
+<a href="https://q-tech-solutions.com/">
+  <img src="https://q-tech-solutions.com/og-card.jpg" alt="Q-Tech Solutions" width="100%" />
+</a>
 
-### حلول رقمية متكاملة | Integrated Digital Solutions
+<br />
 
-[![Website](https://img.shields.io/badge/🌐_Website-q--tech--solutions.com-5e72e4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://q-tech-solutions.com/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Q--Tech--Solutions-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/q-tech-solutions/)
-[![Deploy](https://img.shields.io/badge/🚀_Deploy-qtech.deplois.net-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://qtech.deplois.net/)
+**Software, AI and IT services from Cairo.**
 
----
-
-<img src="https://q-tech-solutions.com/og-card.jpg" alt="Q-Tech Solutions" width="600" />
-
----
+[Website](https://q-tech-solutions.com/) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/q-tech-solutions/) &nbsp;·&nbsp;
+[info@q-tech-solutions.com](mailto:info@q-tech-solutions.com)
 
 </div>
 
-## 📌 عن الشركة | About Us
+<br />
 
-**Q-Tech Solutions** شريكك الموثوق في التحول الرقمي. نقدم حلولاً رقمية متكاملة تشمل المواقع الإلكترونية، التطبيقات الذكية، حلول الذكاء الاصطناعي، والتصميم الاحترافي.
+## About
 
-> **Q-Tech Solutions** is your trusted partner in digital transformation. We deliver integrated digital solutions including websites, smart applications, AI solutions, and professional design.
+Q-Tech Solutions is a software and IT company based in Heliopolis, Cairo. We design and build
+websites, mobile apps and AI-driven tools for businesses in Egypt and the Middle East, and we
+keep maintaining and improving them after launch.
 
----
+Alongside software, we run an IT division that sells and repairs computers and installs CCTV
+systems, so clients can work with one team for both their digital products and the hardware
+behind them.
 
-## 🎯 خدماتنا | Our Services
+<div dir="rtl">
 
-<div align="center">
-
-| 🌐 Websites | 📱 Mobile Apps | 🤖 AI Solutions | 🎨 Design |
-|:---:|:---:|:---:|:---:|
-| Modern & Fast | Cross-platform | Smart Automation | Professional UI/UX |
-| Responsive | Native Performance | Data Analytics | Brand Identity |
-
-</div>
-
-### 🔧 ما نقدمه | What We Offer
-
-- **🌐 تطوير المواقع الإلكترونية** — مواقع حديثة وسريعة ومتجاوبة مع جميع الأجهزة
-  - *Web Development* — Modern, fast, and responsive websites
-
-- **📱 تطبيقات الجوال** — تطبيقات ذكية لنظامي iOS و Android
-  - *Mobile Applications* — Smart apps for iOS and Android platforms
-
-- **🤖 حلول الذكاء الاصطناعي** — أتمتة ذكية وتحليل البيانات
-  - *AI Solutions* — Smart automation and data analytics
-
-- **🎨 التصميم والبراندنغ** — هوية بصرية احترافية وتجربة مستخدم مميزة
-  - *Design & Branding* — Professional visual identity and UX design
-
-- **💻 بيع وصيانة الحواسيب** — حلول تقنية متكاملة
-  - *Computer Sales & Repair* — Complete tech solutions
-
-- **📺 أنظمة المراقبة** — تركيب وصيانة كاميرات المراقبة
-  - *Security Systems* — CCTV installation and maintenance
-
----
-
-## 📊 أرقام تتحدث | Numbers That Speak
-
-<div align="center">
-
-![Projects](https://img.shields.io/badge/🚀_Projects-100+-5e72e4?style=for-the-badge)
-![Clients](https://img.shields.io/badge/👥_Clients-50+-22c55e?style=for-the-badge)
-![Experience](https://img.shields.io/badge/⏱️_Years-5+-f59e0b?style=for-the-badge)
-![Satisfaction](https://img.shields.io/badge/⭐_Satisfaction-100%-ef4444?style=for-the-badge)
+**Q-Tech Solutions** شركة برمجيات وخدمات تقنية مقرها مصر الجديدة، القاهرة. نصمم ونطوّر المواقع
+والتطبيقات وحلول الذكاء الاصطناعي للشركات في مصر والشرق الأوسط، ونستمر مع عملائنا بعد الإطلاق
+بالصيانة والتطوير. وإلى جانب البرمجيات، نقدم بيع وصيانة الحواسيب وتركيب أنظمة المراقبة.
 
 </div>
 
----
+<br />
 
-## 🛠️ التقنيات | Technologies
+## What we do
 
-<div align="center">
+| | |
+|---|---|
+| **Web development** | Company sites, dashboards and web platforms. Fast and responsive on every device. |
+| **Mobile apps** | iOS and Android apps. |
+| **AI & automation** | Automating repetitive work and turning business data into reports and insights. |
+| **UI/UX & branding** | Interface design and visual identity. |
+| **IT hardware** | Computer sales, repair and maintenance. |
+| **Security systems** | CCTV installation and maintenance. |
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br />
 
-</div>
+## Stack
 
----
+| Area | Tools |
+|---|---|
+| Frontend | <img src="https://skillicons.dev/icons?i=js,ts,react,vue" height="36" alt="JavaScript, TypeScript, React, Vue" /> |
+| Backend | <img src="https://skillicons.dev/icons?i=py,django,nodejs" height="36" alt="Python, Django, Node.js" /> |
+| Mobile | <img src="https://skillicons.dev/icons?i=flutter" height="36" alt="Flutter" /> |
+| DevOps | <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" /> |
 
-## 🌍 نطاق العمل | Our Reach
+<br />
 
-<div align="center">
+## Track record
 
-```mermaid
-graph LR
-    A[Q-Tech Solutions] --> B[🇪🇬 Egypt]
-    A --> C[🌍 Middle East]
-    A --> D[🌎 Global Clients]
-    B --> E[Cairo]
-    B --> F[Heliopolis]
-```
+**100+** projects delivered &nbsp;·&nbsp; **50+** clients &nbsp;·&nbsp; **5+** years in business
 
-</div>
+<br />
 
----
+## Get in touch
 
-## 📞 تواصل معنا | Contact Us
-
-<div align="center">
-
-| 🌐 Website | 📧 Email | 📍 Location |
-|:---:|:---:|:---:|
-| [q-tech-solutions.com](https://q-tech-solutions.com/) | info@q-tech-solutions.com | Egypt 🇪🇬 |
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 نحول أفكارك إلى واقع رقمي
-
-### *We Turn Your Ideas Into Digital Reality*
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Q-TechSolutions&color=5e72e4&style=for-the-badge)
-
-**© 2026 Q-Tech Solutions. All Rights Reserved.**
-
-</div>
+Have a project in mind? Send a short brief to
+[info@q-tech-solutions.com](mailto:info@q-tech-solutions.com) or reach us through
+[q-tech-solutions.com](https://q-tech-solutions.com/).
