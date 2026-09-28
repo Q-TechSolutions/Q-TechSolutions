@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Q-Tech Solutions. We build the software your business runs on.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1029"/><stop offset="1" stop-color="#111c44"/></linearGradient>
+  <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0891b2"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+  <linearGradient id="q" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5e72e4"/><stop offset=".55" stop-color="#0891b2"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#ffffff" opacity="0.07"/></pattern>
+  <radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#5e72e4" stop-opacity=".22"/><stop offset="1" stop-color="#5e72e4" stop-opacity="0"/></radialGradient>
+  <clipPath id="bar"><rect x="72" y="318" width="220" height="4" rx="2"/></clipPath>
+  <style>
+    .eyebrow { font: 600 14px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; letter-spacing: 3px; fill: #0891b2; }
+    .h { font: 700 50px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #f4f6ff; letter-spacing: -1px; }
+    .sub { font: 400 19px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #9aa6cf; }
+    .node { font: 600 13px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #7f8cc0; letter-spacing: 1px; }
+    .shine { animation: slide 3.2s cubic-bezier(.65,.05,.36,1) infinite; }
+    .orbit { transform-origin: 1030px 200px; animation: spin 24s linear infinite; }
+    @keyframes slide { 0% { transform: translateX(-90px) } 100% { transform: translateX(260px) } }
+    @keyframes spin { to { transform: rotate(360deg) } }
+    @media (prefers-reduced-motion: reduce) { .shine, .orbit { animation: none } }
+  </style>
+</defs>
+<rect width="1280" height="400" rx="18" fill="url(#bg)"/>
+<rect width="1280" height="400" rx="18" fill="url(#dots)"/>
+<circle cx="1030" cy="200" r="260" fill="url(#glow)"/>
+
+<text x="72" y="104" class="eyebrow">Q-TECH SOLUTIONS  /  CAIRO, EGYPT</text>
+<text x="72" y="176" class="h">We build the software</text>
+<text x="72" y="236" class="h">your business runs on.</text>
+<text x="72" y="282" class="sub">Web platforms, management systems, AI and mobile apps.</text>
+
+<rect x="72" y="318" width="220" height="4" rx="2" fill="#2a3a78"/>
+<g clip-path="url(#bar)"><rect class="shine" x="72" y="318" width="90" height="4" rx="2" fill="url(#acc)"/></g>
+
+<circle cx="1030" cy="200" r="150" fill="none" stroke="#2a3a78" stroke-width="1.5" stroke-dasharray="2 7"/>
+<circle cx="1030" cy="200" r="105" fill="none" stroke="#2a3a78" stroke-width="1"/>
+<g class="orbit"><circle cx="1180" cy="200" r="4" fill="#22c55e"/><circle cx="925" cy="200" r="3" fill="#0891b2"/></g>
+<circle cx="1030.0" cy="50.0" r="5" fill="#111c44" stroke="#5e72e4" stroke-width="2"/><text x="1030.0" y="34.0" text-anchor="middle" class="node">Web</text><circle cx="1180.0" cy="200.0" r="5" fill="#111c44" stroke="#5e72e4" stroke-width="2"/><text x="1198.0" y="205.0" text-anchor="start" class="node">Systems</text><circle cx="1030.0" cy="350.0" r="5" fill="#111c44" stroke="#5e72e4" stroke-width="2"/><text x="1030.0" y="378.0" text-anchor="middle" class="node">AI</text><circle cx="880.0" cy="200.0" r="5" fill="#111c44" stroke="#5e72e4" stroke-width="2"/><text x="862.0" y="205.0" text-anchor="end" class="node">Mobile</text>
+<circle cx="1030" cy="200" r="52" fill="none" stroke="url(#q)" stroke-width="14" stroke-linecap="round" stroke-dasharray="270 60" transform="rotate(-50 1030 200)"/>
+<path d="M 1052 222 L 1088 258" stroke="url(#q)" stroke-width="14" stroke-linecap="round"/>
+</svg>
